@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="center" width="30%" alt="Hello! I'm Daniel" src="https://github.com/user-attachments/assets/dda2f6fe-0783-4b86-970f-1622caa12e50" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-ilievski-05b6a925a/" target="blank">
@@ -102,11 +98,11 @@
   </a>
 </p>
 
-<h3 align="left">Github Stats:</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielilievskii&theme=radical&hide_border=false" 
-       alt="GitHub Streak Stats" style="height: 200px; margin: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielilievskii&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-       alt="Top Languages" style="height: 200px; margin: 10px;">
-</div>
+<h3 align="left">Github Stats:</h3> 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielilievskii&theme=github-dark-dimmed&hide_border=false" alt="GitHub Streak Stats"> 
+</p> 
+  <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielilievskii&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"> 
+  </p>
 

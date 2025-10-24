@@ -99,10 +99,8 @@
 </p>
 
 <h4 align="left">Github Stats:</h4> 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielilievskii&theme=github-dark-dimmed&hide_border=false" alt="GitHub Streak Stats"> 
-</p> 
-  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielilievskii&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"> 
-  </p>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 170px;" src="https://github-readme-streak-stats.herokuapp.com/?user=danielilievskii&theme=github-dark-dimmed&hide_border=false" alt="Daniel's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielilievskii&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ------------- | ------------- |
+
 
